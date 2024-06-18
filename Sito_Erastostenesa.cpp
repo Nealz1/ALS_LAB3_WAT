@@ -1,11 +1,3 @@
-//============================================================================
-//                  Algorytmy i Struktury Danych
-// Zadanie 3.1
-//  Sito Erastostenesa
-//
-//  WCY21IX4S0  Miksiewicz Pawel
-//============================================================================
-
 #include <stdio.h>
 #include <iostream>
 #include <stdlib.h>
